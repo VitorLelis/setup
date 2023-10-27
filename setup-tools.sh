@@ -2,7 +2,7 @@
 
 for tool in 'elixir' 'python3' 'sqlite3' 'postgresql' 'nodejs' 'haskell-platform'
 do
-  sudo apt install $tool
+  sudo apt install -y $tool
 done  
 
 # VSCode

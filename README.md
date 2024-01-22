@@ -1,6 +1,6 @@
 # setup
 
-In order to make easier for me to setup my enviroment, this repo will contain some Shell scripts with my main tools.
+In order to make easier for me to setup my enviroment, this repository will contain a Shell script with some of my tools.
 
 ## Walkthrough
 
@@ -11,9 +11,7 @@ sudo apt update
 
 # Install
 
-sudo apt install curl
-
-sudo apt install git-all
+sudo apt install curl git-all
 
 # Clone Setup
 
@@ -25,9 +23,5 @@ cd setup
 
 # Run it
 
-sh setup-shell.sh
-
-sh setup-tools.sh
-
-sh setup-extra.sh
+sh setup.sh
 ```

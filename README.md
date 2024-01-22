@@ -17,11 +17,7 @@ sudo apt install curl git-all
 
 git clone https://github.com/VitorLelis/setup
 
-# Go to the Directory
-
-cd setup
-
 # Run it
 
-sh setup.sh
+sh setup/setup.sh
 ```

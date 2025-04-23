@@ -15,9 +15,6 @@ sudo sh get-docker.sh
 #VSCode
 sudo snap install --classic code
 
-#ASDF
-git clone https://github.com/asdf-vm/asdf.git ~/.asdf
-
 #Chrome
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
